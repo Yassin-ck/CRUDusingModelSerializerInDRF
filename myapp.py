@@ -33,8 +33,8 @@ def post_data():
 def update_data():
     data = {
         'id':8,
-        'name':'sugiyans',
-        'roll':120,
+        'name':'sugiyan',
+        'roll':200,
         'city':'calicut'
     }
     json_data = json.dumps(data)
